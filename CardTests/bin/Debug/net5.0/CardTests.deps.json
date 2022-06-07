@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CardTests/1.0.0": {
+        "dependencies": {
+          "CardClasses": "1.0.0"
+        },
+        "runtime": {
+          "CardTests.dll": {}
+        }
+      },
+      "CardClasses/1.0.0": {
+        "runtime": {
+          "CardClasses.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CardTests/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CardClasses/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
