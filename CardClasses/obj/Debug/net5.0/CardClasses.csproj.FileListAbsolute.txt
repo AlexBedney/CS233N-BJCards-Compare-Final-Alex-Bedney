@@ -34,3 +34,15 @@ C:\Users\Admin\Desktop\Father Folder\College Classes\CS233N Again\Lab6\BlackJack
 C:\Users\Admin\Desktop\Father Folder\College Classes\CS233N Again\Lab6\BlackJack\CardClasses\bin\Debug\net5.0\CardClasses.dll
 C:\Users\Admin\Desktop\Father Folder\College Classes\CS233N Again\Lab6\BlackJack\CardClasses\bin\Debug\net5.0\ref\CardClasses.dll
 C:\Users\Admin\Desktop\Father Folder\College Classes\CS233N Again\Lab6\BlackJack\CardClasses\bin\Debug\net5.0\CardClasses.pdb
+C:\Users\Admin\Desktop\Father Folder\College Classes\CS233N Again\Final\BlackJackIteration\CardClasses\bin\Debug\net5.0\CardClasses.deps.json
+C:\Users\Admin\Desktop\Father Folder\College Classes\CS233N Again\Final\BlackJackIteration\CardClasses\bin\Debug\net5.0\CardClasses.dll
+C:\Users\Admin\Desktop\Father Folder\College Classes\CS233N Again\Final\BlackJackIteration\CardClasses\bin\Debug\net5.0\ref\CardClasses.dll
+C:\Users\Admin\Desktop\Father Folder\College Classes\CS233N Again\Final\BlackJackIteration\CardClasses\bin\Debug\net5.0\CardClasses.pdb
+C:\Users\Admin\Desktop\Father Folder\College Classes\CS233N Again\Final\BlackJackIteration\CardClasses\obj\Debug\net5.0\CardClasses.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Father Folder\College Classes\CS233N Again\Final\BlackJackIteration\CardClasses\obj\Debug\net5.0\CardClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Father Folder\College Classes\CS233N Again\Final\BlackJackIteration\CardClasses\obj\Debug\net5.0\CardClasses.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Father Folder\College Classes\CS233N Again\Final\BlackJackIteration\CardClasses\obj\Debug\net5.0\CardClasses.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Father Folder\College Classes\CS233N Again\Final\BlackJackIteration\CardClasses\obj\Debug\net5.0\CardClasses.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Father Folder\College Classes\CS233N Again\Final\BlackJackIteration\CardClasses\obj\Debug\net5.0\CardClasses.dll
+C:\Users\Admin\Desktop\Father Folder\College Classes\CS233N Again\Final\BlackJackIteration\CardClasses\obj\Debug\net5.0\ref\CardClasses.dll
+C:\Users\Admin\Desktop\Father Folder\College Classes\CS233N Again\Final\BlackJackIteration\CardClasses\obj\Debug\net5.0\CardClasses.pdb

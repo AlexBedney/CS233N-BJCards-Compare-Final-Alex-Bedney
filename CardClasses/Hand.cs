@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CardClasses
 {
-    public class Hand
+    public class Hand : IEnumerable<Card>
     {
         protected List<Card> cards = new List<Card>();
 
@@ -102,6 +103,16 @@ namespace CardClasses
             foreach (Card c in cards)
                 output += c.ToString() + "\n";
             return output;
+        }
+
+        public IEnumerator<Card> GetEnumerator()
+        {
+            return ((IEnumerable<Card>)cards).GetEnumerator();
+        }
+
+        IEnumerator IEnumerable.GetEnumerator()
+        {
+            return ((IEnumerable)cards).GetEnumerator();
         }
     }
 }

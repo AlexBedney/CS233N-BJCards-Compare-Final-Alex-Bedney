@@ -30,7 +30,18 @@ namespace CardTests
             BJScoreAndIsBustedTester();
              /**/
 
-            ComparisonTester();
+            //ComparisonTester();
+            EnumerableTester();
+        }
+
+        static void EnumerableTester()
+        {
+            Deck deck = new Deck();
+            deck.Shuffle();
+            Hand hand = new Hand(deck, 8);
+
+            foreach (Card c in hand)
+                Console.WriteLine(c.ToString());
         }
 
         static void ComparisonTester()

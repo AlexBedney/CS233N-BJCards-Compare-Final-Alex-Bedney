@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\Father Folder\\College Classes\\CS233N Again\\Final\\BlackJack\\BlackJack\\BlackJack.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\Father Folder\\College Classes\\CS233N Again\\Final\\BlackJackIteration\\BlackJack\\BlackJack.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\Father Folder\\College Classes\\CS233N Again\\Final\\BlackJack\\BlackJack\\BlackJack.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Father Folder\\College Classes\\CS233N Again\\Final\\BlackJackIteration\\BlackJack\\BlackJack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Father Folder\\College Classes\\CS233N Again\\Final\\BlackJack\\BlackJack\\BlackJack.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Father Folder\\College Classes\\CS233N Again\\Final\\BlackJackIteration\\BlackJack\\BlackJack.csproj",
         "projectName": "BlackJack",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Father Folder\\College Classes\\CS233N Again\\Final\\BlackJack\\BlackJack\\BlackJack.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Father Folder\\College Classes\\CS233N Again\\Final\\BlackJackIteration\\BlackJack\\BlackJack.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Father Folder\\College Classes\\CS233N Again\\Final\\BlackJack\\BlackJack\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Father Folder\\College Classes\\CS233N Again\\Final\\BlackJackIteration\\BlackJack\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\Desktop\\Father Folder\\College Classes\\CS233N Again\\Final\\BlackJack\\CardClasses\\CardClasses.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Desktop\\Father Folder\\College Classes\\CS233N Again\\Final\\BlackJack\\CardClasses\\CardClasses.csproj"
+              "C:\\Users\\Admin\\Desktop\\Father Folder\\College Classes\\CS233N Again\\Final\\BlackJackIteration\\CardClasses\\CardClasses.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\Father Folder\\College Classes\\CS233N Again\\Final\\BlackJackIteration\\CardClasses\\CardClasses.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\Desktop\\Father Folder\\College Classes\\CS233N Again\\Final\\BlackJack\\CardClasses\\CardClasses.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Father Folder\\College Classes\\CS233N Again\\Final\\BlackJackIteration\\CardClasses\\CardClasses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Father Folder\\College Classes\\CS233N Again\\Final\\BlackJack\\CardClasses\\CardClasses.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Father Folder\\College Classes\\CS233N Again\\Final\\BlackJackIteration\\CardClasses\\CardClasses.csproj",
         "projectName": "CardClasses",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Father Folder\\College Classes\\CS233N Again\\Final\\BlackJack\\CardClasses\\CardClasses.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Father Folder\\College Classes\\CS233N Again\\Final\\BlackJackIteration\\CardClasses\\CardClasses.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Father Folder\\College Classes\\CS233N Again\\Final\\BlackJack\\CardClasses\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Father Folder\\College Classes\\CS233N Again\\Final\\BlackJackIteration\\CardClasses\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
